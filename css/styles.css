@@ -655,15 +655,15 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-    //width: 7.0625rem;
-	height: 3rem;
+    width: 7.0625rem;
+	height: 2rem;
 	-webkit-backface-visibility: hidden;
 }
 
 .navbar-custom .navbar-brand.logo-text {
 	margin-top: 0.25rem;
 	margin-bottom: 0.25rem;
-	font: 700 1.5rem/1.5rem "Montserrat", sans-serif;
+	font: 700 2.25rem/1.5rem "Montserrat", sans-serif;
 	color: #fff;
 	text-decoration: none;
 }
@@ -2360,8 +2360,7 @@ a:hover.back-to-top {
 	/* Projects */
 	.filter .element-item {
 		width: 17.3125rem; /* to eliminate grid overflow problem on hard refresh */
-		/*height: 16.875rem;*/
-		height: 11.5rem;
+		height: 16.875rem;
 	}
 
 	.filter .element-item .element-item-overlay span { 

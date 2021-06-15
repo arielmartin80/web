@@ -2068,9 +2068,6 @@ readers do not read off random characters that represent icons */
 .fa-pen-square:before {
   content: "\f14b"; }
 
-.fa-pencil-square-o:before {
-  content: "\f044"; }
-
 .fa-pencil-alt:before {
   content: "\f303"; }
 
